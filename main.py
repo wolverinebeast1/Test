@@ -3,8 +3,5 @@ print("testing")
 print("hello")
 
 #This will go to the branch number 1
-print("Hey I will push this code to the branch 1!")
+print("I edit this line to trigger merge conflict!")
 
-#Another random stuff
-for i in range(1,10):
-    print(i)
